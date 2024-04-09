@@ -44,6 +44,9 @@ public partial class KortexcrudContext : DbContext
             entity.Property(e => e.Telefono)
                 .HasMaxLength(100)
                 .IsUnicode(false);
+            entity.Property(e => e.Cargo)
+                .HasMaxLength(100)
+                .IsUnicode(false);
         });
 
         modelBuilder.Entity<Producto>(entity =>

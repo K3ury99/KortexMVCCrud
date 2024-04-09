@@ -53,7 +53,7 @@ namespace KortexCrud.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdCliente,Nombre,Apellido,Telefono,Cedula,Direccion")] Cliente cliente)
+        public async Task<IActionResult> Create([Bind("IdCliente,Nombre,Apellido,Telefono,Cedula,Direccion,Cargo")] Cliente cliente)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +85,7 @@ namespace KortexCrud.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("IdCliente,Nombre,Apellido,Telefono,Cedula,Direccion")] Cliente cliente)
+        public async Task<IActionResult> Edit(int id, [Bind("IdCliente,Nombre,Apellido,Telefono,Cedula,Direccion,Cargo")] Cliente cliente)
         {
             if (id != cliente.IdCliente)
             {
