@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KortexCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+880a6f03ff2c3f14236e19c749f2181dd6775b02")]
 [assembly: System.Reflection.AssemblyProductAttribute("KortexCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KortexCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
