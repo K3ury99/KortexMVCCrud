@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,8 +55,7 @@
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-09T02:06:26.885Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "KortexCrud\\Views\\Clientes\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-09T02:30:01.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:30:01.885Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "KortexCrud\\Views\\Clientes\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-09T02:30:00.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:30:00.389Z"
             },
             {
               "$type": "Document",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "KortexCrud\\Controllers\\ProductoesController.cs",
               "ViewState": "AQIAAFYAAAAAAAAAAAAswGYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T02:25:49.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:25:49.505Z"
             },
             {
               "$type": "Document",
@@ -124,8 +120,7 @@
               "RelativeToolTip": "KortexCrud\\Controllers\\ClientesController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T02:19:14.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:19:14.436Z"
             },
             {
               "$type": "Document",
@@ -149,8 +144,7 @@
               "RelativeToolTip": "KortexCrud\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-09T02:06:33.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:06:33.09Z"
             }
           ]
         }
