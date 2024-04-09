@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\migrations\\kortexcrudcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\migrations\\kortexcrudcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KortexcrudContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\KortexcrudContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "KortexCrud\\Migrations\\KortexcrudContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\KortexcrudContextModelSnapshot.cs",
+              "RelativeToolTip": "KortexCrud\\Migrations\\KortexcrudContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:41:51.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Program.cs",
+              "RelativeDocumentMoniker": "KortexCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Program.cs",
+              "RelativeToolTip": "KortexCrud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:41:11.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
