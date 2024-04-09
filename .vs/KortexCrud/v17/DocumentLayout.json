@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\migrations\\20240409053904_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\migrations\\20240409053904_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\migrations\\20240409025032_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\migrations\\20240409025032_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KortexCrud\\Views\\Shared\\_Layout.cshtml",
@@ -63,7 +75,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "20240409053904_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\20240409053904_Inicial.cs",
+              "RelativeDocumentMoniker": "KortexCrud\\Migrations\\20240409053904_Inicial.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\20240409053904_Inicial.cs",
+              "RelativeToolTip": "KortexCrud\\Migrations\\20240409053904_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:41:29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240409025032_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\20240409025032_Inicial.cs",
+              "RelativeDocumentMoniker": "KortexCrud\\Migrations\\20240409025032_Inicial.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\20240409025032_Inicial.cs",
+              "RelativeToolTip": "KortexCrud\\Migrations\\20240409025032_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:41:07.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "KortexCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\appsettings.json",
+              "RelativeToolTip": "KortexCrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T05:39:57.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Clientes\\Index.cshtml",
               "RelativeDocumentMoniker": "KortexCrud\\Views\\Clientes\\Index.cshtml",
@@ -75,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Clientes\\Create.cshtml",
               "RelativeDocumentMoniker": "KortexCrud\\Views\\Clientes\\Create.cshtml",
@@ -87,20 +136,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Program.cs",
               "RelativeDocumentMoniker": "KortexCrud\\Program.cs",
               "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Program.cs",
               "RelativeToolTip": "KortexCrud\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T02:27:26.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:27:26.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProductoesController.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Controllers\\ProductoesController.cs",
               "RelativeDocumentMoniker": "KortexCrud\\Controllers\\ProductoesController.cs",
@@ -112,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "KortexCrud\\Controllers\\ClientesController.cs",
@@ -124,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "KortexCrud\\wwwroot\\css\\site.css",
@@ -136,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KortexCrud\\Views\\Home\\Index.cshtml",
