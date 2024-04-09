@@ -1,0 +1,9 @@
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.csproj.AssemblyReference.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.RazorAssemblyInfo.cache
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.RazorAssemblyInfo.cs
+C:\Users\Keury\Desktop\Clases\ITLA\3er - Cuatrimestre\Programacion 1\Proyectos Web\KortexCrud\KortexCrud\obj\Debug\net8.0\KortexCrud.sourcelink.json
