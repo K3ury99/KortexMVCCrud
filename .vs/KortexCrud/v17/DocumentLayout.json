@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,8 +36,50 @@
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+=======
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|c:\\users\\keury\\desktop\\clases\\itla\\3er - cuatrimestre\\programacion 1\\proyectos web\\kortexcrud\\kortexcrud\\migrations\\20240409053904_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\migrations\\20240409053904_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\migrations\\20240409025032_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\migrations\\20240409025032_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> master
       "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\kortexcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E201118A-51B2-4E17-BECD-498DAEE23D11}|KortexCrud\\KortexCrud.csproj|solutionrelative:kortexcrud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,17 +93,24 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 4,
+>>>>>>> master
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KortexCrud\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KortexCrud\\Views\\Shared\\_Layout.cshtml",
+<<<<<<< HEAD
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAnAAAA",
+=======
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAA3AAAA",
+>>>>>>> master
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-09T02:06:26.885Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -121,11 +171,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+=======
+              "Title": "20240409053904_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\20240409053904_Inicial.cs",
+              "RelativeDocumentMoniker": "KortexCrud\\Migrations\\20240409053904_Inicial.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\20240409053904_Inicial.cs",
+              "RelativeToolTip": "KortexCrud\\Migrations\\20240409053904_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:41:29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240409025032_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\20240409025032_Inicial.cs",
+              "RelativeDocumentMoniker": "KortexCrud\\Migrations\\20240409025032_Inicial.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Migrations\\20240409025032_Inicial.cs",
+              "RelativeToolTip": "KortexCrud\\Migrations\\20240409025032_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:41:07.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "KortexCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\appsettings.json",
+              "RelativeToolTip": "KortexCrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T05:39:57.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "KortexCrud\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "KortexCrud\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T02:30:01.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "KortexCrud\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "KortexCrud\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T02:30:00.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+>>>>>>> master
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Program.cs",
               "RelativeDocumentMoniker": "KortexCrud\\Program.cs",
               "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Program.cs",
               "RelativeToolTip": "KortexCrud\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T14:49:45.223Z",
@@ -134,19 +249,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+=======
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:27:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "KortexCrud\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "KortexCrud\\Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswGYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:25:49.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+>>>>>>> master
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "KortexCrud\\Controllers\\ClientesController.cs",
               "ToolTip": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "KortexCrud\\Controllers\\ClientesController.cs",
+<<<<<<< HEAD
               "ViewState": "AQIAACMAAAAAAAAAAAAgwB0AAAAbAAAA",
+=======
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAbAAAA",
+>>>>>>> master
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T02:19:14.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:19:14.436Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 10,
+>>>>>>> master
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos Web\\KortexCrud\\KortexCrud\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "KortexCrud\\wwwroot\\css\\site.css",
@@ -154,8 +297,7 @@
               "RelativeToolTip": "KortexCrud\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-09T02:12:22.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:12:22.59Z"
             },
             {
               "$type": "Document",
@@ -167,8 +309,7 @@
               "RelativeToolTip": "KortexCrud\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-09T02:06:33.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T02:06:33.09Z"
             }
           ]
         }

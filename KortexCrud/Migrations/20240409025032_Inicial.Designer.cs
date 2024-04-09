@@ -3,6 +3,7 @@ using KortexCrud.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KortexCrud.Migrations
 {
     [DbContext(typeof(KortexcrudContext))]
-    partial class KortexcrudContextModelSnapshot : ModelSnapshot
+    [Migration("20240409025032_Inicial")]
+    partial class Inicial
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -34,9 +37,6 @@ namespace KortexCrud.Migrations
                         .HasMaxLength(100)
                         .IsUnicode(false)
                         .HasColumnType("varchar(100)");
-
-                    b.Property<string>("Cargo")
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Cedula")
                         .HasMaxLength(100)
