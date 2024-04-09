@@ -16,7 +16,4 @@ public partial class Cliente
     public string? Cedula { get; set; }
 
     public string? Direccion { get; set; }
-
-    public string? Cargo { get; set; }
-
 }

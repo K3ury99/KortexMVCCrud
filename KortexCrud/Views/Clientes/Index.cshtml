@@ -27,9 +27,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.Direccion)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Cargo)
-            </th>
             <th></th>
         </tr>
     </thead>
@@ -50,9 +47,6 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Direccion)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Cargo)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.IdCliente">Edit</a> |
