@@ -2,6 +2,7 @@
 using KortexCrud.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -9,9 +10,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KortexCrud.Migrations
 {
     [DbContext(typeof(KortexcrudContext))]
-    partial class KortexcrudContextModelSnapshot : ModelSnapshot
+    [Migration("20240410180250_columnaprecio")]
+    partial class columnaprecio
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.3");
@@ -72,11 +75,6 @@ namespace KortexCrud.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Nombre")
-                        .HasMaxLength(100)
-                        .IsUnicode(false)
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Precio")
                         .HasMaxLength(100)
                         .IsUnicode(false)
                         .HasColumnType("TEXT");
