@@ -1,6 +1,11 @@
 ## 🚀 KortexMVCCrud
 **KortexMVCCrud** is a CRUD (Create, Read, Update, Delete) application designed to manage clients, suppliers, and products. Built using ASP.NET MVC and integrated with a SQLite3 database, this project serves both educational and practical purposes.
 
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/9eaa70c8-a2b6-43c9-8253-d534bd6f45cc" width="49%"></img>
+  <img src="https://github.com/user-attachments/assets/e224e155-f0c1-4a19-af24-55a503ef081f" width="49%"></img>
+</div>
+
 ## 🛠 Features
 - **Clients**: Manage client information with ease.
 - **Suppliers**: Add, update, or delete supplier data.
