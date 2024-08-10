@@ -1,2 +1,36 @@
-## KortexMVCCrud
-This is a CRUD application of clients, suppliers and products made for educational and also practical purposes to use Asp.net and MVC connected with a Sqlite3 database.
+## 🚀 KortexMVCCrud
+**KortexMVCCrud** is a CRUD (Create, Read, Update, Delete) application designed to manage clients, suppliers, and products. Built using ASP.NET MVC and integrated with a SQLite3 database, this project serves both educational and practical purposes.
+
+## 🛠 Features
+- **Clients**: Manage client information with ease.
+- **Suppliers**: Add, update, or delete supplier data.
+- **Products**: Handle product records efficiently.
+- **MVC Framework**: Built on the ASP.NET MVC architecture for modular and maintainable code.
+- **SQLite3 Database**: Lightweight, file-based database integration.
+
+## 👾 Getting Started
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/K3ury99/KortexMVCCrud.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd KortexMVCCrud 
+2. **Navigate to the project directory:**
+3. **Open in Visual Studio:** Open the solution file KortexCrud.sln and build the project.
+4. **Run the application:** Press F5 to start the application.
+
+## 🐱‍👤 Contributing
+1. **Fork the repo**
+- **Create a new branch**
+   ```bash
+   git checkout -b feature-branch
+- **Commit changes**
+   ```bash
+  git commit -am 'Add new feature'
+2. **Push to the branch (git push origin feature-branch)**
+3. **Create a new Pull Request**
+
+## 📔 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
